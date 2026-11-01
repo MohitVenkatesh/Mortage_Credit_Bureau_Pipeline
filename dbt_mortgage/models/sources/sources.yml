@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: bronze
+    database: MORTGAGE_DB
+    schema: BRONZE
+    tables:
+      - name: MORTGAGE_APPLICATIONS_RAW
+      - name: CREDIT_BUREAU_RAW

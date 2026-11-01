@@ -1,0 +1,42 @@
+[
+  {
+    "application_id": "APP1001",
+    "applicant_id": "CUS1001",
+    "applicant_name": "Alex Morgan",
+    "ssn": "111-22-3333",
+    "loan_amount": 285000,
+    "property_value": 350000,
+    "monthly_gross_income": 9500,
+    "application_timestamp": "2026-10-01T10:15:00Z"
+  },
+  {
+    "application_id": "APP1002",
+    "applicant_id": "CUS1002",
+    "applicant_name": "Jordan Lee",
+    "ssn": "222-33-4444",
+    "loan_amount": 420000,
+    "property_value": 430000,
+    "monthly_gross_income": 12000,
+    "application_timestamp": "2026-10-01T10:20:00Z"
+  },
+  {
+    "application_id": "APP1003",
+    "applicant_id": "CUS1003",
+    "applicant_name": "Taylor Smith",
+    "ssn": "333-44-5555",
+    "loan_amount": 180000,
+    "property_value": 240000,
+    "monthly_gross_income": 7000,
+    "application_timestamp": "2026-10-01T10:25:00Z"
+  },
+  {
+    "application_id": "APP1004",
+    "applicant_id": "CUS1004",
+    "applicant_name": "Casey Brown",
+    "ssn": "444-55-6666",
+    "loan_amount": 200000,
+    "property_value": 250000,
+    "monthly_gross_income": 8000,
+    "application_timestamp": "2026-10-01T10:30:00Z"
+  }
+]

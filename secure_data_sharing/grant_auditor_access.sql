@@ -1,0 +1,2 @@
+-- Add approved consumer account(s) only after confirming legal entity and data-sharing agreement.
+-- ALTER SHARE MORTGAGE_AUDITOR_SHARE ADD ACCOUNTS = <consumer_account_identifier>;
